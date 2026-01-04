@@ -1,1 +1,23 @@
-sys_info_*.json
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+.venv/
+
+# Logs and Reports (Sensitive Data Guard)
+*.log
+*.json
+*.txt
+!requirements.txt
+!README.md
+!task.md
+!learning_roadmap.md
+!implementation_plan.md
+!walkthrough.md
+
+# OS generated files
+.DS_Store
+Thumbs.db
