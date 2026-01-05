@@ -13,3 +13,4 @@ Her gün çalışır durumda, işlevsel ve güvenlikle ilgili bir Python aracı 
 
 ## Günlükler
 - **[Gün 1](./day01):** Sistem Bilgisi Toplama Aracı (`sys-info.py`)
+- **[Gün 2](./day02):** Log Analiz ve SSH Güvenlik Aracı (`log_analyzer.py`)

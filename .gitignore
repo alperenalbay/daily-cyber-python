@@ -21,3 +21,4 @@ venv/
 # OS generated files
 .DS_Store
 Thumbs.db
+!day02/test_auth.log
